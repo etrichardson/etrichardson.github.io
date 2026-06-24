@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto folders
+/.quarto/
+docs/
+
+# R Project in case I switch back to R Studio
+*.Rproj
