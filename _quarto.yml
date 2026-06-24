@@ -24,6 +24,8 @@ website:
         href: https://github.com/etrichardson/etrichardson.github.io
       - text: "{{< ai researchgate >}} ResearchGate"
         href: https://www.researchgate.net/profile/Emily-Richardson-33
+      - text: "{{< ai orcid >}} ORCID"
+        url: https://orcid.org/0000-0003-2696-8266
   page-footer: 
     center: "Copyright &copy; 2026, Emily Richardson"
     background: secondary
