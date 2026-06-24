@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Emily Richardson"
+  title: "Emily T. Richardson, MSc"
   repo-url: https://github.com/etrichardson/etrichardson.github.io
   repo-actions: [issue]
   navbar:
@@ -18,8 +18,12 @@ website:
       - text: "Home"
         href: index.qmd
     right: 
+      - text: "About"
+        href: about.qmd
       - icon: github
         href: https://github.com/etrichardson/etrichardson.github.io
+      - text: "{{< ai researchgate >}} ResearchGate"
+        href: https://www.researchgate.net/profile/Emily-Richardson-33
   page-footer: 
     center: "Copyright &copy; 2026, Emily Richardson"
     background: secondary
