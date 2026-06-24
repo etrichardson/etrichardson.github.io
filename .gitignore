@@ -51,6 +51,9 @@ rsconnect/
 # Quarto folders
 /.quarto/
 docs/
+**/*.quarto_ipynb
 
 # R Project in case I switch back to R Studio
 *.Rproj
+
+
