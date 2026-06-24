@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "My Website",
     "section": "",
-    "text": "Check back later!"
+    "text": "Welcome! This website is under construction, please check back later!"
   },
   {
-    "objectID": "index.html#under-construction",
-    "href": "index.html#under-construction",
+    "objectID": "index.html#estuarine-ecologist",
+    "href": "index.html#estuarine-ecologist",
     "title": "My Website",
     "section": "",
-    "text": "Check back later!"
+    "text": "Welcome! This website is under construction, please check back later!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello."
   }
 ]
